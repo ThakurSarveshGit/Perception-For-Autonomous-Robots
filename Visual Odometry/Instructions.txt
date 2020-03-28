@@ -1,0 +1,4 @@
+
+# To access the Oxford Dataset: https://drive.google.com/drive/folders/1f2xHP_l8croofUL_G5RZKmJo2YE9spx9
+
+# Have the folder in the same directory as the Dataset.
