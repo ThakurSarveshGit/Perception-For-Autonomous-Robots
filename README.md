@@ -1,4 +1,4 @@
-# Perception for Autonomous Robotics
+# Perception for Autonomous Robots
 
 ### Authors: Akshitha Pothamshetty & Sarvesh Thakur
 
