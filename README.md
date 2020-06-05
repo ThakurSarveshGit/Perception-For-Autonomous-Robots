@@ -54,5 +54,5 @@ to extract the intrinsic parameters. I implemented the different steps to estima
 The focus of this project is divided into two pipelines, Traffic sign detection and traffic sign classification. Traffic sign detection is the process of forming a bounding box around a traffic sign, so that the region of interest can be cropped and given to the classifier for sign classification. HSV feature and MSER features are tested for robust sign detection.
 
 <p align="center">
-  <img src="TrafficSignsDetection/GIF_LUCAS_KANADE.gif?raw=true" alt="Homography and Pose Estimation"/>
+  <img src="TrafficSignsDetection/GIF_TrafficSignDetect.gif?raw=true" alt="Homography and Pose Estimation"/>
 </p>
