@@ -18,6 +18,16 @@ In this project we aim to do simple Lane Detection to mimic Lane Departure Warni
   <img src="AdvanceLaneDetection/laneDetection.gif?raw=true" alt="Advance Lane Detection for Autonomous Cars"/>
 </p>
 
+## Project Three: Underwater Buoy Detection using Gaussian Mixture Models(GMMs)
+
+This project will introduced the concept of color segmentation using Gaussian Mixture Models and Expectation Maximization techniques. The video sequence provided has been captured underwater and shows three buoys of different
+colors, namely yellow, orange and green. They are almost circular in shape and are distinctly colored. However, conventional segmentation techniques involving color thresholding will not work well in such an environment, since noise and varying light intensities will render any hard-coded thresholds ineffective.
+In such a scenario, we “learn” the color distributions of the buoys and use that learned model to segment them. This project required us to obtain a tight segmentation of each buoy for the entire video sequence by applying a tight contour (in the respective color of the buoy being segmented) around each buoy.
+
+<p align="center">
+  <img src="BuoyDetectionGMM/buoyDetection.gif?raw=true" alt="Underwater Buoy Detection using Gaussian Mixture Models(GMMs)"/>
+</p>
+
 ## Project Five: Visual Odometry
 
 Visual Odometry is a crucial concept in Robotics Perception for estimating the trajectory of the robot (the camera on the robot to be precise). The concepts involved in Visual Odometry are quite the same for SLAM which needless to say is an integral part of Perception.
