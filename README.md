@@ -28,6 +28,16 @@ In such a scenario, we “learn” the color distributions of the buoys and use 
   <img src="BuoyDetectionGMM/buoyDetection.gif?raw=true" alt="Underwater Buoy Detection using Gaussian Mixture Models(GMMs)"/>
 </p>
 
+## Project Four: Lucas Kanade Object Tracker
+
+In this project, we implemented Lucas-Kanade(LK) algorithm that minimizes the sum of squared error between the image and a template image( object to be tracked in prior image), to track an object in an image.
+We Evaluated the code on three video sequence: the car sequence, the human walking and the table vase scene. We added advanced approaches in the code for implementing robustness to illumination. (Eg. used robust M-estimator to avoid outliers affecting the cost function in LK algorithm).
+
+
+<p align="center">
+  <img src="LucasKanadeTracker/GIF_LUCAS_KANADE.gif?raw=true" alt="Lucas Kanade Object Tracker"/>
+</p>
+
 ## Project Five: Visual Odometry
 
 Visual Odometry is a crucial concept in Robotics Perception for estimating the trajectory of the robot (the camera on the robot to be precise). The concepts involved in Visual Odometry are quite the same for SLAM which needless to say is an integral part of Perception.
