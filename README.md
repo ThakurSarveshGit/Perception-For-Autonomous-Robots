@@ -15,7 +15,7 @@ This project identifies the tag id from a series of frames taken from a drone at
 In this project we aim to do simple Lane Detection to mimic Lane Departure Warning systems used in SelfDriving Cars.  We are provided with two video sequences(one in normal lighting and other one in changing light intensities), taken from a self driving car.  Our task was to design an algorithm to detect lanes on the road,as well as estimate the road curvature to predict car turns.
 
 <p align="center">
-  <img src="AdvancedLaneDetection/laneDetection.gif?raw=true" alt="Advance Lane Detection for Autonomous Cars"/>
+  <img src="AdvanceLaneDetection/laneDetection.gif?raw=true" alt="Advance Lane Detection for Autonomous Cars"/>
 </p>
 
 ## Project Five: Visual Odometry
@@ -26,7 +26,7 @@ In this project we have frames of a driving sequence taken by a camera in a car,
 to extract the intrinsic parameters. I implemented the different steps to estimate the 3D motion of the camera, and provide as output a plot of the trajectory of the camera.
 
 <p align="center">
-  <img src="AugmentedReality/PutAVirtualCube.gif?raw=true" alt="Homography and Pose Estimation"/>
+  <img src="VisualOdometry/visualodom.gif?raw=true" alt="Homography and Pose Estimation"/>
 </p>
 
 
