@@ -1,7 +1,5 @@
 # Perception for Autonomous Robots
 
-### Authors: Akshitha Pothamshetty & Sarvesh Thakur
-
 ## Project One: Augmented Reality
 
 This project identifies the tag id from a series of frames taken from a drone attached camera. The direct application of this project is aid the landing of a drone by recognizing the appropriate tag id from the downward facing camera. The QR tags are a simplified version that can encode ids from 0 to 15[8 bits]. The four corner points were robustly estimated across all frames, based on which homography calculations were performed to recover the camera pose. This information was later use to project a virtual cube in the scene.
