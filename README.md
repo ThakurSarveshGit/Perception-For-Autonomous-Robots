@@ -1,4 +1,6 @@
-# Perception for Autonomous Robots
+# ENPM673 - Perception for Autonomous Robots
+
+## Instructors: Prof. Cornellia Fermuller and Prof. Yiannis Aloimonos
 
 ## Project One: Augmented Reality
 
